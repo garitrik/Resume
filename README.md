@@ -1,2 +1,2 @@
 # Resume
-This Repository Consist of My resume 
+This Repository Consist of my resume 
